@@ -78,15 +78,13 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=buidangminh23&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=ff4444&icon_color=ff4444&text_color=ffffff&ring_color=ff4444&include_all_commits=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buidangminh23&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=ff4444&text_color=ffffff&langs_count=8" />
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=buidangminh23&theme=dark&hide_border=true&background=0d0d0d&ring=FF4444&fire=FF4444&currStreakLabel=FF4444&sideLabels=ffffff&dates=888888&stroke=FF4444" />
+
+<br/><br/>
+
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbuidangminh23&query=%24.public_repos&style=for-the-badge&label=PUBLIC+REPOS&color=FF4444&logo=github)
+![Stars](https://img.shields.io/github/stars/buidangminh23?style=for-the-badge&label=TOTAL+STARS&color=FF4444&logo=github)
+![Followers](https://img.shields.io/github/followers/buidangminh23?style=for-the-badge&label=FOLLOWERS&color=FF4444&logo=github)
 
 </div>
 
@@ -111,16 +109,16 @@
 <div align="center">
 
 <a href="https://github.com/buidangminh23/bot-tele">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=buidangminh23&repo=bot-tele&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=ff4444&text_color=ffffff&icon_color=ff4444" />
+  <img height="120" src="https://gh-card.dev/repos/buidangminh23/bot-tele.svg?fullname=1&theme=dark_pink" />
 </a>
 <a href="https://github.com/buidangminh23/Chinese-Learning">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=buidangminh23&repo=Chinese-Learning&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=ff4444&text_color=ffffff&icon_color=ff4444" />
+  <img height="120" src="https://gh-card.dev/repos/buidangminh23/Chinese-Learning.svg?fullname=1&theme=dark_pink" />
 </a>
 <a href="https://github.com/buidangminh23/Study-Web">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=buidangminh23&repo=Study-Web&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=ff4444&text_color=ffffff&icon_color=ff4444" />
+  <img height="120" src="https://gh-card.dev/repos/buidangminh23/Study-Web.svg?fullname=1&theme=dark_pink" />
 </a>
 <a href="https://github.com/buidangminh23/Personal-Web">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=buidangminh23&repo=Personal-Web&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=ff4444&text_color=ffffff&icon_color=ff4444" />
+  <img height="120" src="https://gh-card.dev/repos/buidangminh23/Personal-Web.svg?fullname=1&theme=dark_pink" />
 </a>
 
 </div>
@@ -132,16 +130,6 @@
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=buidangminh23&bg_color=0d0d0d&color=ff4444&line=ff4444&point=ffffff&area=true&area_color=ff444430&hide_border=true&radius=8" />
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=buidangminh23&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
 
 </div>
 
