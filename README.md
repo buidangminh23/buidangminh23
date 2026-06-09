@@ -138,8 +138,8 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/buidangminh23/swinburne-demo/pull/1) in [buidangminh23/swinburne-demo](https://github.com/buidangminh23/swinburne-demo)
-2. 💪 Opened PR [#1](https://github.com/buidangminh23/swinburne-demo/pull/1) in [buidangminh23/swinburne-demo](https://github.com/buidangminh23/swinburne-demo)
+1. 🎉 Merged PR [#2](https://github.com/buidangminh23/swinburne-demo/pull/2) in [buidangminh23/swinburne-demo](https://github.com/buidangminh23/swinburne-demo)
+2. 💪 Opened PR [#2](https://github.com/buidangminh23/swinburne-demo/pull/2) in [buidangminh23/swinburne-demo](https://github.com/buidangminh23/swinburne-demo)
 <!--END_SECTION:activity-->
 
 ---
