@@ -52,12 +52,24 @@
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/docs/Web/HTML)
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/docs/Web/CSS)
 [![PowerShell](https://skillicons.dev/icons?i=powershell)](https://learn.microsoft.com/powershell)
+[![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
+
+**Frameworks**
+
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
+[![Vue](https://skillicons.dev/icons?i=vue)](https://vuejs.org)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
+[![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com)
+[![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev)
 
 **Backend & Data**
 
 [![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://postgresql.org)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com)
 [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://sqlite.org)
+[![Prisma](https://skillicons.dev/icons?i=prisma)](https://prisma.io)
 [![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://tensorflow.org)
 [![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)
 
@@ -66,6 +78,7 @@
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
 [![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
 [![Windows](https://skillicons.dev/icons?i=windows)](https://microsoft.com/windows)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://linux.org)
