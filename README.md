@@ -152,7 +152,7 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/buidangminh23/Study-Web/pull/1#issuecomment-4756006682) in [buidangminh23/Study-Web](https://github.com/buidangminh23/Study-Web)
-2. 🎉 Merged PR [#4](https://github.com/buidangminh23/swinburne-demo/pull/4) in [buidangminh23/swinburne-demo](https://github.com/buidangminh23/swinburne-demo)
+2. 💪 Opened PR [#5](https://github.com/buidangminh23/swinburne-demo/pull/5) in [buidangminh23/swinburne-demo](https://github.com/buidangminh23/swinburne-demo)
 <!--END_SECTION:activity-->
 
 ---
