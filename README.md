@@ -151,8 +151,8 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/buidangminh23/Study-Web/pull/1#issuecomment-4756006682) in [buidangminh23/Study-Web](https://github.com/buidangminh23/Study-Web)
-2. 💪 Opened PR [#5](https://github.com/buidangminh23/swinburne-demo/pull/5) in [buidangminh23/swinburne-demo](https://github.com/buidangminh23/swinburne-demo)
+1. ❌ Closed PR [#1](https://github.com/buidangminh23/Study-Web/pull/1) in [buidangminh23/Study-Web](https://github.com/buidangminh23/Study-Web)
+2. 🗣 Commented on [#1](https://github.com/buidangminh23/Study-Web/pull/1#issuecomment-4756006682) in [buidangminh23/Study-Web](https://github.com/buidangminh23/Study-Web)
 <!--END_SECTION:activity-->
 
 ---
