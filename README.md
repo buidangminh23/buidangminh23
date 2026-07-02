@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:1a0000,80:6b0000,100:cc0000&height=200&section=header&text=Bui%20Dang%20Minh&fontSize=65&fontAlignY=40&fontColor=ffffff&desc=Data%20Science%20%E2%80%A2%20AI%20%E2%80%A2%20Builder&descSize=20&descAlignY=62&descColor=ff8888&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:1a0000,80:6b0000,100:cc0000&height=200&section=header&text=Bui%20Dang%20Minh&fontSize=65&fontAlignY=40&fontColor=ffffff&desc=Data%20Science%20%E2%80%A2%20AI%20Engineering%20%E2%80%A2%20Full-Stack%20Development&descSize=18&descAlignY=62&descColor=ff8888&animation=twinkling" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=FF4444&center=true&vCenter=true&random=false&width=600&lines=Data+Science+%40+Swinburne+University+%F0%9F%8E%93;Building+AI-powered+Systems+%F0%9F%A4%96;Python+%7C+FastAPI+%7C+Telegram+Bots;Automate+everything+%E2%9A%A1%EF%B8%8F;PUBG+ID%3A+Gemera+%F0%9F%8E%AE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=FF4444&center=true&vCenter=true&random=false&width=600&lines=Data+Science+%40+Swinburne+University+%F0%9F%8E%93;Building+AI-Powered+Systems+%F0%9F%A4%96;Python+%7C+FastAPI+%7C+React+%7C+TypeScript;Automating+workflows%2C+end+to+end+%E2%9A%A1%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -17,21 +17,20 @@
 
 ## 👾 About Me
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
+<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
 
 <br/>
 
-**Bui Dang Minh** &nbsp;·&nbsp; *Minh Stark* &nbsp;·&nbsp; 20 y/o
+**Bui Dang Minh** &nbsp;·&nbsp; *Minh Spark* &nbsp;·&nbsp; Data Science student, Swinburne University &nbsp;·&nbsp; Hanoi, Vietnam
 
 <br/>
 
-🎓 &nbsp;**Education** &nbsp;— Data Science @ Swinburne University  
-📍 &nbsp;**Location** &nbsp;&nbsp;— Dong Anh, Ha Noi 🇻🇳  
-🤖 &nbsp;**Building** &nbsp;&nbsp;— AI bots · PWAs · FastAPI services  
-⚡ &nbsp;**Obsession** — Automate everything, 1 script > 10 steps  
-🎮 &nbsp;**Gaming** &nbsp;&nbsp;&nbsp;— PUBG Mobile · ID: **Gemera**  
-🧱 &nbsp;**Hobby** &nbsp;&nbsp;&nbsp;&nbsp;— LEGO Technic & Creator sets  
-☕ &nbsp;**Fuel** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— Matcha latte & strong coffee  
+I design and ship production-grade software end to end — Python/FastAPI backends, async job pipelines, LLM-integrated bots, and modern web frontends in React, Vue, and Next.js. My focus is turning repetitive, manual workflows into reliable, automated systems.
+
+- 🎓 &nbsp;**Education** &nbsp;&nbsp;— B.S. Data Science, Swinburne University of Technology
+- 🤖 &nbsp;**Building** &nbsp;&nbsp;&nbsp;— AI-integrated bots, PWAs, FastAPI services, and internal tooling for AI coding agents
+- ⚡ &nbsp;**Principle** &nbsp;&nbsp;— automate the repeatable, ship the reliable
+- 🌱 &nbsp;**Exploring** &nbsp;&nbsp;— applied ML, agentic AI systems, developer tooling
 
 <br/>
 
@@ -87,6 +86,23 @@
 
 ---
 
+## 🌟 Featured Projects
+
+<div align="center">
+
+| Project | Description | Stack |
+|---|---|---|
+| [**EduPortal**](https://github.com/buidangminh23/Education) | Education platform for course delivery and learning management | React 19 · Vite 8 · Rolldown |
+| [**Study Web**](https://github.com/buidangminh23/Study-Web) | Server-rendered study platform with templated views | FastAPI · SQLAlchemy · Jinja2 |
+| [**Chinese Learning**](https://github.com/buidangminh23/Chinese-Learning) | Installable, offline-first HSK vocabulary trainer | PWA · HTML/CSS/JS |
+| [**Swinburne Demo**](https://github.com/buidangminh23/swinburne-demo) | Full-stack demo app with a relational data layer | Vue 3 · Express · MySQL · Prisma |
+| [**VietSage**](https://github.com/buidangminh23/VietSage) | Marketing site for a web design & software services studio | HTML · CSS · JS |
+| [**Spacing Skill**](https://github.com/buidangminh23/spacing-skill) | Claude Code skill enforcing consistent UI spacing & vertical rhythm | Claude Code Plugin |
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -117,27 +133,6 @@
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/buidangminh23/Minh-Stark">
-  <img height="120" src="https://gh-card.dev/repos/buidangminh23/Minh-Stark.svg?fullname=1&theme=dark_pink" />
-</a>
-<a href="https://github.com/buidangminh23/Chinese-Learning">
-  <img height="120" src="https://gh-card.dev/repos/buidangminh23/Chinese-Learning.svg?fullname=1&theme=dark_pink" />
-</a>
-<a href="https://github.com/buidangminh23/Study-Web">
-  <img height="120" src="https://gh-card.dev/repos/buidangminh23/Study-Web.svg?fullname=1&theme=dark_pink" />
-</a>
-<a href="https://github.com/buidangminh23/Personal-Web">
-  <img height="120" src="https://gh-card.dev/repos/buidangminh23/Personal-Web.svg?fullname=1&theme=dark_pink" />
-</a>
-
-</div>
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
@@ -161,8 +156,12 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-buidangminh.lh%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:buidangminh.lh@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-buidangminh23%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:buidangminh23@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-buidangminh23-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/buidangminh23)
+
+<br/>
+
+<sub>Off duty: LEGO Technic builds · PUBG Mobile (ID: Gemera)</sub>
 
 </div>
 
