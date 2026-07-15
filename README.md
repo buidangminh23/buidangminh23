@@ -146,8 +146,8 @@ I design and ship production-grade software end to end — Python/FastAPI backen
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/buidangminh23/spacing-skill/issues/1) in [buidangminh23/spacing-skill](https://github.com/buidangminh23/spacing-skill)
-2. ❌ Closed PR [#1](https://github.com/buidangminh23/Study-Web/pull/1) in [buidangminh23/Study-Web](https://github.com/buidangminh23/Study-Web)
+1. 🎉 Merged PR [#1](https://github.com/buidangminh23/icons-pro-max/pull/1) in [buidangminh23/icons-pro-max](https://github.com/buidangminh23/icons-pro-max)
+2. 💪 Opened PR [#1](https://github.com/buidangminh23/icons-pro-max/pull/1) in [buidangminh23/icons-pro-max](https://github.com/buidangminh23/icons-pro-max)
 <!--END_SECTION:activity-->
 
 ---
