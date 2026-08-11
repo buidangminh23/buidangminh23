@@ -146,8 +146,8 @@ I design and ship production-grade software end to end — Python/FastAPI backen
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/buidangminh23/EduPortal/pull/5) in [buidangminh23/EduPortal](https://github.com/buidangminh23/EduPortal)
-2. 💪 Opened PR [#5](https://github.com/buidangminh23/EduPortal/pull/5) in [buidangminh23/EduPortal](https://github.com/buidangminh23/EduPortal)
+1. 🎉 Merged PR [#6](https://github.com/buidangminh23/EduPortal/pull/6) in [buidangminh23/EduPortal](https://github.com/buidangminh23/EduPortal)
+2. 💪 Opened PR [#6](https://github.com/buidangminh23/EduPortal/pull/6) in [buidangminh23/EduPortal](https://github.com/buidangminh23/EduPortal)
 <!--END_SECTION:activity-->
 
 ---
