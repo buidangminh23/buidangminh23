@@ -146,8 +146,8 @@ I design and ship production-grade software end to end — Python/FastAPI backen
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/buidangminh23/icons-pro-max/pull/3) in [buidangminh23/icons-pro-max](https://github.com/buidangminh23/icons-pro-max)
-2. 🎉 Merged PR [#2](https://github.com/buidangminh23/spacing-skill/pull/2) in [buidangminh23/spacing-skill](https://github.com/buidangminh23/spacing-skill)
+1. 🎉 Merged PR [#71](https://github.com/buidangminh23/codex-mcp-bridge/pull/71) in [buidangminh23/codex-mcp-bridge](https://github.com/buidangminh23/codex-mcp-bridge)
+2. 🎉 Merged PR [#6](https://github.com/buidangminh23/icons-pro-max/pull/6) in [buidangminh23/icons-pro-max](https://github.com/buidangminh23/icons-pro-max)
 <!--END_SECTION:activity-->
 
 ---
