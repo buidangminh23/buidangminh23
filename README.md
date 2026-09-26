@@ -146,8 +146,8 @@ I design and ship production-grade software end to end — Python/FastAPI backen
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/buidangminh23/quota-control/pull/1) in [buidangminh23/quota-control](https://github.com/buidangminh23/quota-control)
-2. 🚀 Published release [Quota Control 0.1.13](https://github.com/buidangminh23/quota-control/releases/tag/v0.1.13) in [buidangminh23/quota-control](https://github.com/buidangminh23/quota-control)
+1. 🚀 Published release [Quota Control 0.2.0](https://github.com/buidangminh23/quota-control/releases/tag/v0.2.0) in [buidangminh23/quota-control](https://github.com/buidangminh23/quota-control)
+2. 🎉 Merged PR [#1](https://github.com/buidangminh23/quota-control/pull/1) in [buidangminh23/quota-control](https://github.com/buidangminh23/quota-control)
 <!--END_SECTION:activity-->
 
 ---
