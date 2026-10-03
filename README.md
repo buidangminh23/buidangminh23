@@ -146,8 +146,8 @@ I design and ship production-grade software end to end — Python/FastAPI backen
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#102](https://github.com/buidangminh23/codex-mcp-bridge/pull/102) in [buidangminh23/codex-mcp-bridge](https://github.com/buidangminh23/codex-mcp-bridge)
-2. 💪 Opened PR [#102](https://github.com/buidangminh23/codex-mcp-bridge/pull/102) in [buidangminh23/codex-mcp-bridge](https://github.com/buidangminh23/codex-mcp-bridge)
+1. 🎉 Merged PR [#106](https://github.com/buidangminh23/codex-mcp-bridge/pull/106) in [buidangminh23/codex-mcp-bridge](https://github.com/buidangminh23/codex-mcp-bridge)
+2. 💪 Opened PR [#106](https://github.com/buidangminh23/codex-mcp-bridge/pull/106) in [buidangminh23/codex-mcp-bridge](https://github.com/buidangminh23/codex-mcp-bridge)
 <!--END_SECTION:activity-->
 
 ---
