@@ -117,13 +117,9 @@ I design and ship production-grade software end to end — open-source tooling f
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=buidangminh23&theme=dark&hide_border=true&background=0d0d0d&ring=FF4444&fire=FF4444&currStreakLabel=FF4444&sideLabels=ffffff&dates=888888&stroke=FF4444" />
+<img src="https://raw.githubusercontent.com/buidangminh23/buidangminh23/output/stats-card.svg" alt="GitHub stats: contributions, streaks, public repos, stars and followers" />
 
-<br/><br/>
-
-![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbuidangminh23&query=%24.public_repos&style=for-the-badge&label=PUBLIC+REPOS&color=FF4444&logo=github)
-![Stars](https://img.shields.io/github/stars/buidangminh23?style=for-the-badge&label=TOTAL+STARS&color=FF4444&logo=github)
-![Followers](https://img.shields.io/github/followers/buidangminh23?style=for-the-badge&label=FOLLOWERS&color=FF4444&logo=github)
+<sub>Source: GitHub API. Refresh scheduled every 5 minutes; workflow and image-cache delays may apply. Contribution dates use UTC. The card shows the last successful update.</sub>
 
 </div>
 

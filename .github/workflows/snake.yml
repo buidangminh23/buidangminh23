@@ -2,11 +2,15 @@ name: Generate Profile Graphics
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "2-57/5 * * * *"
   workflow_dispatch:
   push:
     branches:
       - main
+
+concurrency:
+  group: profile-graphics
+  cancel-in-progress: false
 
 jobs:
   generate:
@@ -27,6 +31,13 @@ jobs:
           GITHUB_USER_NAME: ${{ github.repository_owner }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           OUTPUT_PATH: dist/activity-graph.svg
+
+      - name: generate stats card SVG
+        run: node scripts/stats-card.mjs
+        env:
+          GITHUB_USER_NAME: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OUTPUT_PATH: dist/stats-card.svg
 
       - name: generate snake SVGs
         uses: Platane/snk/svg-only@v3
