@@ -108,9 +108,6 @@ I design and ship production-grade software end to end — open-source tooling f
 | [**Icons Pro Max**](https://github.com/buidangminh23/icons-pro-max) | Icon system for agents: payment marks, QR, brand icons, the lucide UI set, and tech-stack logos · [npm](https://www.npmjs.com/package/@minhspark/icons-pro-max) | Agent Skill · SVG |
 | [**claude-dev-skill**](https://github.com/buidangminh23/claude-dev-skill) | Unofficial, auto-updating skill that distills the claude.dev engineering blog into playbooks for Claude Code and Codex | Agent Skill · GitHub Actions |
 | [**Design Pro Max**](https://github.com/buidangminh23/design-pro-max) | Design skills for Claude Code and Codex, one skill per design; first: Apple platforms | Agent Skill · Node.js |
-| [**Study Web**](https://github.com/buidangminh23/Study-Web) | Server-rendered study platform with templated views · [live](https://study-web-pearl.vercel.app) | FastAPI · SQLAlchemy · Jinja2 |
-| [**Chinese Learning**](https://github.com/buidangminh23/Chinese-Learning) | Installable, offline-first HSK vocabulary trainer · [live](https://chinese-learning-hazel.vercel.app) | PWA · HTML/CSS/JS |
-| [**Swinburne Demo**](https://github.com/buidangminh23/swinburne-demo) | Full-stack demo app with a relational data layer | Vue 3 · Express · MySQL · Prisma |
 
 </div>
 
