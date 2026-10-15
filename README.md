@@ -152,8 +152,8 @@ I design and ship production-grade software end to end — open-source tooling f
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#131](https://github.com/buidangminh23/codex-mcp-bridge/pull/131) in [buidangminh23/codex-mcp-bridge](https://github.com/buidangminh23/codex-mcp-bridge)
-2. 🗣 Commented on [#127](https://github.com/buidangminh23/codex-mcp-bridge/issues/127#issuecomment-6139176633) in [buidangminh23/codex-mcp-bridge](https://github.com/buidangminh23/codex-mcp-bridge)
+1. 🎉 Merged PR [#16](https://github.com/buidangminh23/icons-pro-max/pull/16) in [buidangminh23/icons-pro-max](https://github.com/buidangminh23/icons-pro-max)
+2. 💪 Opened PR [#18](https://github.com/buidangminh23/icons-pro-max/pull/18) in [buidangminh23/icons-pro-max](https://github.com/buidangminh23/icons-pro-max)
 <!--END_SECTION:activity-->
 
 ---
