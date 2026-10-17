@@ -152,8 +152,8 @@ I design and ship production-grade software end to end — open-source tooling f
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/buidangminh23/spacing-skill/pull/9) in [buidangminh23/spacing-skill](https://github.com/buidangminh23/spacing-skill)
-2. 🎉 Merged PR [#19](https://github.com/buidangminh23/icons-pro-max/pull/19) in [buidangminh23/icons-pro-max](https://github.com/buidangminh23/icons-pro-max)
+1. 🎉 Merged PR [#6](https://github.com/buidangminh23/design-pro-max/pull/6) in [buidangminh23/design-pro-max](https://github.com/buidangminh23/design-pro-max)
+2. 💪 Opened PR [#6](https://github.com/buidangminh23/design-pro-max/pull/6) in [buidangminh23/design-pro-max](https://github.com/buidangminh23/design-pro-max)
 <!--END_SECTION:activity-->
 
 ---
