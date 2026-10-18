@@ -17,7 +17,7 @@
 
 ## 👾 About Me
 
-<img align="right" width="400" src="assets/typing-workstation.gif" alt="Typing code on a three-monitor Apple workstation"/>
+<img align="right" width="400" src="assets/two-hand-typing-workstation.gif" alt="Typing with both hands on a three-monitor Apple workstation"/>
 
 <br/>
 
