@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 78" width="340" height="78" role="img" aria-label="WEBSITE: minhspark.com">
+  <rect x="0.5" y="0.5" width="339" height="77" rx="15" fill="#151A22" stroke="#364152"/>
+  <rect x="20" y="0" width="56" height="3" rx="1.5" fill="#EF2335"/>
+  <rect x="15.5" y="15.5" width="47" height="47" rx="12" fill="#FFFFFF"/>
+  <svg x="20" y="20" width="38" height="38" viewBox="0 0 512 512">
+
+  <rect width="512" height="512" fill="#ef2335"/>
+  <path d="M256 100 Q256 256 412 256 Q256 256 256 412 Q256 256 100 256 Q256 256 256 100 Z" fill="#ffffff"/>
+  <path d="M372 130 Q372 170 412 170 Q372 170 372 210 Q372 170 332 170 Q372 170 372 130 Z" fill="#ffffff"/>
+</svg>
+  <text x="78" y="31" fill="#EF2335" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.6">WEBSITE</text>
+  <text x="78" y="54" fill="#F8FAFC" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600">minhspark.com</text>
+  <path d="M303 44l12-12m-9 0h9v9" fill="none" stroke="#EF2335" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

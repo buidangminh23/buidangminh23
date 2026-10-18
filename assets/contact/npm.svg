@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 78" width="340" height="78" role="img" aria-label="NPM: minhspark">
+  <rect x="0.5" y="0.5" width="339" height="77" rx="15" fill="#151A22" stroke="#364152"/>
+  <rect x="20" y="0" width="56" height="3" rx="1.5" fill="#CB3837"/>
+  <rect x="15.5" y="15.5" width="47" height="47" rx="12" fill="#FFFFFF"/>
+  <svg x="20" y="20" width="38" height="38" viewBox="0 0 128 128"><path fill="#cb3837" d="m0 7.0624c0-3.8376 3.2248-7.0624 7.0624-7.0624h113.88c3.8376 0 7.0624 3.2248 7.0624 7.0624v113.88c0 3.8376-3.2248 7.0624-7.0624 7.0624h-113.88c-3.8376 0-7.0624-3.2248-7.0624-7.0624zm23.69 97.518h40.395l0.04975-58.532h19.494l-0.04975 58.581h19.543l0.0508-78.075-78.076-0.0995-0.0995 78.125z" /><path fill="#fff" d="m25.105 65.52v-39.008h15.855c8.7201 0 26.274 0.03373 39.008 0.07496l23.153 0.07496v77.866h-19.476v-58.54h-19.588v58.54h-38.952z" /></svg>
+  <text x="78" y="31" fill="#CB3837" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.6">NPM</text>
+  <text x="78" y="54" fill="#F8FAFC" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600">minhspark</text>
+  <path d="M303 44l12-12m-9 0h9v9" fill="none" stroke="#CB3837" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

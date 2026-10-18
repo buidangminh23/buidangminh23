@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 78" width="340" height="78" role="img" aria-label="GMAIL: buidangminh23@gmail.com">
+  <rect x="0.5" y="0.5" width="339" height="77" rx="15" fill="#151A22" stroke="#364152"/>
+  <rect x="20" y="0" width="56" height="3" rx="1.5" fill="#EA4335"/>
+  <rect x="15.5" y="15.5" width="47" height="47" rx="12" fill="#FFFFFF"/>
+  <svg x="20" y="20" width="38" height="38" viewBox="52 31 88 88"><rect data-tile="1" x="52" y="31" width="88" height="88" rx="12.32" fill="#ffffff"/><path fill="#4285f4" d="M58 108h14V74L52 59v43c0 3.32 2.69 6 6 6"/><path fill="#34a853" d="M120 108h14c3.32 0 6-2.69 6-6V59l-20 15"/><path fill="#fbbc04" d="M120 48v26l20-15v-8c0-7.42-8.47-11.65-14.4-7.2"/><path fill="#ea4335" d="M72 74V48l24 18 24-18v26L96 92"/><path fill="#c5221f" d="M52 51v8l20 15V48l-5.6-4.2c-5.94-4.45-14.4-.22-14.4 7.2"/></svg>
+  <text x="78" y="31" fill="#EA4335" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.6">GMAIL</text>
+  <text x="78" y="54" fill="#F8FAFC" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600">buidangminh23@gmail.com</text>
+  <path d="M303 44l12-12m-9 0h9v9" fill="none" stroke="#EA4335" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
