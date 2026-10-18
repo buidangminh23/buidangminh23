@@ -47,50 +47,50 @@ I design and ship production-grade software end to end — open-source tooling f
 
 **Languages**
 
-[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org)
-[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/docs/Web/HTML)
-[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/docs/Web/CSS)
-[![PowerShell](https://skillicons.dev/icons?i=powershell)](https://learn.microsoft.com/powershell)
-[![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
+<a href="https://python.org"><img src="https://raw.githubusercontent.com/buidangminh23/icons-pro-max/main/skills/icons-pro-max/assets/tech/python.svg" alt="Python" height="48"></a>
+<a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/buidangminh23/icons-pro-max/main/skills/icons-pro-max/assets/tech/typescript.svg" alt="TypeScript" height="48"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/buidangminh23/icons-pro-max/main/skills/icons-pro-max/assets/tech/javascript.svg" alt="JavaScript" height="48"></a>
+<a href="https://www.rust-lang.org"><img src="https://raw.githubusercontent.com/buidangminh23/icons-pro-max/main/skills/icons-pro-max/assets/tech/rust.svg" alt="Rust" height="48"></a>
+<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://raw.githubusercontent.com/buidangminh23/icons-pro-max/main/skills/icons-pro-max/assets/tech/html5.svg" alt="HTML" height="48"></a>
+<a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://raw.githubusercontent.com/buidangminh23/icons-pro-max/main/skills/icons-pro-max/assets/tech/css3.svg" alt="CSS" height="48"></a>
+<a href="https://learn.microsoft.com/powershell"><img src="https://raw.githubusercontent.com/buidangminh23/icons-pro-max/main/skills/icons-pro-max/assets/tech/powershell.svg" alt="PowerShell" height="48"></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/buidangminh23/icons-pro-max/main/skills/icons-pro-max/assets/tech/bash.svg" alt="Bash" height="48"></a>
 
 **Frameworks**
 
-[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
-[![Vue](https://skillicons.dev/icons?i=vue)](https://vuejs.org)
-[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
-[![Astro](https://skillicons.dev/icons?i=astro)](https://astro.build)
-[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
-[![Tauri](https://skillicons.dev/icons?i=tauri)](https://tauri.app)
-[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
-[![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com)
-[![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev)
+<a href="https://react.dev"><img src="https://raw.githubusercontent.com/buidangminh23/icons-pro-max/main/skills/icons-pro-max/assets/tech/react.svg" alt="React" height="48"></a>
+<a href="https://vuejs.org"><img src="https://raw.githubusercontent.com/buidangminh23/icons-pro-max/main/skills/icons-pro-max/assets/tech/vue.svg" alt="Vue" height="48"></a>
+<a href="https://nextjs.org"><img src="https://raw.githubusercontent.com/buidangminh23/icons-pro-max/main/skills/icons-pro-max/assets/tech/nextjs.svg" alt="Next.js" height="48"></a>
+<a href="https://astro.build"><img src="https://raw.githubusercontent.com/buidangminh23/icons-pro-max/main/skills/icons-pro-max/assets/tech/astro.svg" alt="Astro" height="48"></a>
+<a href="https://tailwindcss.com"><img src="https://raw.githubusercontent.com/buidangminh23/icons-pro-max/main/skills/icons-pro-max/assets/tech/tailwindcss.svg" alt="Tailwind CSS" height="48"></a>
+<a href="https://tauri.app"><img src="https://raw.githubusercontent.com/buidangminh23/icons-pro-max/main/skills/icons-pro-max/assets/tech/tauri.svg" alt="Tauri" height="48"></a>
+<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/buidangminh23/icons-pro-max/main/skills/icons-pro-max/assets/tech/nodejs.svg" alt="Node.js" height="48"></a>
+<a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/buidangminh23/icons-pro-max/main/skills/icons-pro-max/assets/tech/express.svg" alt="Express" height="48"></a>
+<a href="https://vitejs.dev"><img src="https://raw.githubusercontent.com/buidangminh23/icons-pro-max/main/skills/icons-pro-max/assets/tech/vite.svg" alt="Vite" height="48"></a>
 
 **Backend & Data**
 
-[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com)
-[![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://postgresql.org)
-[![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.com)
-[![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io)
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com)
-[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://sqlite.org)
-[![Prisma](https://skillicons.dev/icons?i=prisma)](https://prisma.io)
-[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://tensorflow.org)
-[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)
+<a href="https://fastapi.tiangolo.com"><img src="https://raw.githubusercontent.com/buidangminh23/icons-pro-max/main/skills/icons-pro-max/assets/tech/fastapi.svg" alt="FastAPI" height="48"></a>
+<a href="https://postgresql.org"><img src="https://raw.githubusercontent.com/buidangminh23/icons-pro-max/main/skills/icons-pro-max/assets/tech/postgresql.svg" alt="PostgreSQL" height="48"></a>
+<a href="https://supabase.com"><img src="https://raw.githubusercontent.com/buidangminh23/icons-pro-max/main/skills/icons-pro-max/assets/tech/supabase.svg" alt="Supabase" height="48"></a>
+<a href="https://redis.io"><img src="https://raw.githubusercontent.com/buidangminh23/icons-pro-max/main/skills/icons-pro-max/assets/tech/redis.svg" alt="Redis" height="48"></a>
+<a href="https://mysql.com"><img src="https://raw.githubusercontent.com/buidangminh23/icons-pro-max/main/skills/icons-pro-max/assets/tech/mysql.svg" alt="MySQL" height="48"></a>
+<a href="https://sqlite.org"><img src="https://raw.githubusercontent.com/buidangminh23/icons-pro-max/main/skills/icons-pro-max/assets/tech/sqlite.svg" alt="SQLite" height="48"></a>
+<a href="https://prisma.io"><img src="https://raw.githubusercontent.com/buidangminh23/icons-pro-max/main/skills/icons-pro-max/assets/tech/prisma.svg" alt="Prisma" height="48"></a>
+<a href="https://tensorflow.org"><img src="https://raw.githubusercontent.com/buidangminh23/icons-pro-max/main/skills/icons-pro-max/assets/tech/tensorflow.svg" alt="TensorFlow" height="48"></a>
+<a href="https://pytorch.org"><img src="https://raw.githubusercontent.com/buidangminh23/icons-pro-max/main/skills/icons-pro-max/assets/tech/pytorch.svg" alt="PyTorch" height="48"></a>
 
 **Tools & Deploy**
 
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
-[![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
-[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
-[![Windows](https://skillicons.dev/icons?i=windows)](https://microsoft.com/windows)
-[![macOS](https://skillicons.dev/icons?i=apple)](https://www.apple.com/macos)
-[![Linux](https://skillicons.dev/icons?i=linux)](https://linux.org)
+<a href="https://git-scm.com"><img src="https://raw.githubusercontent.com/buidangminh23/icons-pro-max/main/skills/icons-pro-max/assets/tech/git.svg" alt="Git" height="48"></a>
+<a href="https://github.com"><img src="https://raw.githubusercontent.com/buidangminh23/icons-pro-max/main/skills/icons-pro-max/assets/tech/github.svg" alt="GitHub" height="48"></a>
+<a href="https://github.com/features/actions"><img src="https://raw.githubusercontent.com/buidangminh23/icons-pro-max/main/skills/icons-pro-max/assets/tech/github-actions.svg" alt="GitHub Actions" height="48"></a>
+<a href="https://vercel.com"><img src="https://raw.githubusercontent.com/buidangminh23/icons-pro-max/main/skills/icons-pro-max/assets/tech/vercel.svg" alt="Vercel" height="48"></a>
+<a href="https://docker.com"><img src="https://raw.githubusercontent.com/buidangminh23/icons-pro-max/main/skills/icons-pro-max/assets/tech/docker.svg" alt="Docker" height="48"></a>
+<a href="https://code.visualstudio.com"><img src="https://raw.githubusercontent.com/buidangminh23/icons-pro-max/main/skills/icons-pro-max/assets/tech/vscode.svg" alt="VS Code" height="48"></a>
+<a href="https://microsoft.com/windows"><img src="https://raw.githubusercontent.com/buidangminh23/icons-pro-max/main/skills/icons-pro-max/assets/tech/windows.svg" alt="Windows" height="48"></a>
+<a href="https://www.apple.com/macos"><img src="https://raw.githubusercontent.com/buidangminh23/icons-pro-max/main/skills/icons-pro-max/assets/tech/apple.svg" alt="macOS" height="48"></a>
+<a href="https://linux.org"><img src="https://raw.githubusercontent.com/buidangminh23/icons-pro-max/main/skills/icons-pro-max/assets/tech/linux.svg" alt="Linux" height="48"></a>
 
 </div>
 
@@ -162,10 +162,10 @@ I design and ship production-grade software end to end — open-source tooling f
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-buidangminh23%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:buidangminh23@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-buidangminh23-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/buidangminh23)
-[![Website](https://img.shields.io/badge/Website-minhspark.com-CC0000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://minhspark.com)
-[![npm](https://img.shields.io/badge/npm-minhspark-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~minhspark)
+[![Email](https://img.shields.io/badge/Gmail-buidangminh23%40gmail.com-EA4335?style=for-the-badge&labelColor=202124&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjUyIDMxIDg4IDg4IiB3aWR0aD0iODgiIGhlaWdodD0iODgiIHJvbGU9ImltZyIgYXJpYS1sYWJlbD0iR21haWwiPjxyZWN0IGRhdGEtdGlsZT0iMSIgeD0iNTIiIHk9IjMxIiB3aWR0aD0iODgiIGhlaWdodD0iODgiIHJ4PSIxMi4zMiIgZmlsbD0iI2ZmZmZmZiIvPjxwYXRoIGZpbGw9IiM0Mjg1ZjQiIGQ9Ik01OCAxMDhoMTRWNzRMNTIgNTl2NDNjMCAzLjMyIDIuNjkgNiA2IDYiLz48cGF0aCBmaWxsPSIjMzRhODUzIiBkPSJNMTIwIDEwOGgxNGMzLjMyIDAgNi0yLjY5IDYtNlY1OWwtMjAgMTUiLz48cGF0aCBmaWxsPSIjZmJiYzA0IiBkPSJNMTIwIDQ4djI2bDIwLTE1di04YzAtNy40Mi04LjQ3LTExLjY1LTE0LjQtNy4yIi8%2BPHBhdGggZmlsbD0iI2VhNDMzNSIgZD0iTTcyIDc0VjQ4bDI0IDE4IDI0LTE4djI2TDk2IDkyIi8%2BPHBhdGggZmlsbD0iI2M1MjIxZiIgZD0iTTUyIDUxdjhsMjAgMTVWNDhsLTUuNi00LjJjLTUuOTQtNC40NS0xNC40LS4yMi0xNC40IDcuMiIvPjwvc3ZnPg0K)](mailto:buidangminh23@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-buidangminh23-24292F?style=for-the-badge&labelColor=181717&logo=data:image/svg%2Bxml;base64,PHN2ZyByb2xlPSJpbWciIGFyaWEtbGFiZWw9IkdpdEh1YiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSItMyAtMy4wMDAxIDMwIDMwIj48cmVjdCBkYXRhLXRpbGU9IjEiIHg9Ii0zIiB5PSItMy4wMDAxIiB3aWR0aD0iMzAiIGhlaWdodD0iMzAiIHJ4PSI0LjgiIGZpbGw9IiNmZmZmZmYiLz48cGF0aCBmaWxsPSIjMTgxNzE3IiBkPSJNMTIgLjI5N2MtNi42MyAwLTEyIDUuMzczLTEyIDEyIDAgNS4zMDMgMy40MzggOS44IDguMjA1IDExLjM4NS42LjExMy44Mi0uMjU4LjgyLS41NzcgMC0uMjg1LS4wMS0xLjA0LS4wMTUtMi4wNC0zLjMzOC43MjQtNC4wNDItMS42MS00LjA0Mi0xLjYxQzQuNDIyIDE4LjA3IDMuNjMzIDE3LjcgMy42MzMgMTcuN2MtMS4wODctLjc0NC4wODQtLjcyOS4wODQtLjcyOSAxLjIwNS4wODQgMS44MzggMS4yMzYgMS44MzggMS4yMzYgMS4wNyAxLjgzNSAyLjgwOSAxLjMwNSAzLjQ5NS45OTguMTA4LS43NzYuNDE3LTEuMzA1Ljc2LTEuNjA1LTIuNjY1LS4zLTUuNDY2LTEuMzMyLTUuNDY2LTUuOTMgMC0xLjMxLjQ2NS0yLjM4IDEuMjM1LTMuMjItLjEzNS0uMzAzLS41NC0xLjUyMy4xMDUtMy4xNzYgMCAwIDEuMDA1LS4zMjIgMy4zIDEuMjMuOTYtLjI2NyAxLjk4LS4zOTkgMy0uNDA1IDEuMDIuMDA2IDIuMDQuMTM4IDMgLjQwNSAyLjI4LTEuNTUyIDMuMjg1LTEuMjMgMy4yODUtMS4yMy42NDUgMS42NTMuMjQgMi44NzMuMTIgMy4xNzYuNzY1Ljg0IDEuMjMgMS45MSAxLjIzIDMuMjIgMCA0LjYxLTIuODA1IDUuNjI1LTUuNDc1IDUuOTIuNDIuMzYuODEgMS4wOTYuODEgMi4yMiAwIDEuNjA2LS4wMTUgMi44OTYtLjAxNSAzLjI4NiAwIC4zMTUuMjEuNjkuODI1LjU3QzIwLjU2NSAyMi4wOTIgMjQgMTcuNTkyIDI0IDEyLjI5N2MwLTYuNjI3LTUuMzczLTEyLTEyLTEyIi8%2BPC9zdmc%2BDQo%3D)](https://github.com/buidangminh23)
+[![Website](https://img.shields.io/badge/Website-minhspark.com-EF2335?style=for-the-badge&labelColor=111111&logo=data:image/svg%2Bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4NCjxzdmcgdmVyc2lvbj0iMS4yIiBiYXNlUHJvZmlsZT0idGlueS1wcyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiIgd2lkdGg9IjUxMiIgaGVpZ2h0PSI1MTIiPg0KICA8dGl0bGU%2BTWluaCBTcGFyazwvdGl0bGU%2BDQogIDxyZWN0IHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiBmaWxsPSIjZWYyMzM1Ii8%2BDQogIDxwYXRoIGQ9Ik0yNTYgMTAwIFEyNTYgMjU2IDQxMiAyNTYgUTI1NiAyNTYgMjU2IDQxMiBRMjU2IDI1NiAxMDAgMjU2IFEyNTYgMjU2IDI1NiAxMDAgWiIgZmlsbD0iI2ZmZmZmZiIvPg0KICA8cGF0aCBkPSJNMzcyIDEzMCBRMzcyIDE3MCA0MTIgMTcwIFEzNzIgMTcwIDM3MiAyMTAgUTM3MiAxNzAgMzMyIDE3MCBRMzcyIDE3MCAzNzIgMTMwIFoiIGZpbGw9IiNmZmZmZmYiLz4NCjwvc3ZnPg0K)](https://minhspark.com)
+[![npm](https://img.shields.io/badge/npm-minhspark-CB3837?style=for-the-badge&labelColor=171717&logo=data:image/svg%2Bxml;base64,PHN2ZyByb2xlPSJpbWciIGFyaWEtbGFiZWw9Im5wbSIgdmlld0JveD0iMCAwIDEyOCAxMjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggZmlsbD0iI2NiMzgzNyIgZD0ibTAgNy4wNjI0YzAtMy44Mzc2IDMuMjI0OC03LjA2MjQgNy4wNjI0LTcuMDYyNGgxMTMuODhjMy44Mzc2IDAgNy4wNjI0IDMuMjI0OCA3LjA2MjQgNy4wNjI0djExMy44OGMwIDMuODM3Ni0zLjIyNDggNy4wNjI0LTcuMDYyNCA3LjA2MjRoLTExMy44OGMtMy44Mzc2IDAtNy4wNjI0LTMuMjI0OC03LjA2MjQtNy4wNjI0em0yMy42OSA5Ny41MThoNDAuMzk1bDAuMDQ5NzUtNTguNTMyaDE5LjQ5NGwtMC4wNDk3NSA1OC41ODFoMTkuNTQzbDAuMDUwOC03OC4wNzUtNzguMDc2LTAuMDk5NS0wLjA5OTUgNzguMTI1eiIgLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJtMjUuMTA1IDY1LjUydi0zOS4wMDhoMTUuODU1YzguNzIwMSAwIDI2LjI3NCAwLjAzMzczIDM5LjAwOCAwLjA3NDk2bDIzLjE1MyAwLjA3NDk2djc3Ljg2NmgtMTkuNDc2di01OC41NGgtMTkuNTg4djU4LjU0aC0zOC45NTJ6IiAvPjwvc3ZnPg0K)](https://www.npmjs.com/~minhspark)
 
 <br/>
 
