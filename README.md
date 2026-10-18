@@ -139,15 +139,6 @@ I design and ship production-grade software end to end — open-source tooling f
 
 ---
 
-## ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/buidangminh23/design-pro-max/pull/6) in [buidangminh23/design-pro-max](https://github.com/buidangminh23/design-pro-max)
-2. 💪 Opened PR [#6](https://github.com/buidangminh23/design-pro-max/pull/6) in [buidangminh23/design-pro-max](https://github.com/buidangminh23/design-pro-max)
-<!--END_SECTION:activity-->
-
----
-
 ## 📡 Connect
 
 <div align="center">
@@ -155,10 +146,6 @@ I design and ship production-grade software end to end — open-source tooling f
 <a href="mailto:buidangminh23@gmail.com"><img src="assets/contact/gmail.svg" width="340" alt="Gmail: buidangminh23@gmail.com" /></a> <a href="https://github.com/buidangminh23"><img src="assets/contact/github.svg" width="340" alt="GitHub: buidangminh23" /></a>
 
 <a href="https://minhspark.com"><img src="assets/contact/website-avatar.svg" width="340" alt="Website: minhspark.com" /></a> <a href="https://www.npmjs.com/~minhspark"><img src="assets/contact/npm.svg" width="340" alt="npm: minhspark" /></a>
-
-<br/>
-
-<sub>Off duty: LEGO Technic builds · PUBG Mobile (ID: Gemera)</sub>
 
 </div>
 
