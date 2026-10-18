@@ -27,16 +27,6 @@
 
 I design and ship production-grade software end to end — open-source tooling for AI coding agents (Claude Code, Codex), cross-platform desktop apps in Rust and Tauri, Python/FastAPI backends, and modern web frontends in React, Astro, and Next.js. My focus is turning repetitive, manual workflows into reliable, automated systems.
 
-- 🎓 &nbsp;**Education** &nbsp;&nbsp;— B.S. Data Science, Swinburne University of Technology
-- 🤖 &nbsp;**Building** &nbsp;&nbsp;&nbsp;— MCP bridges and agent skills on npm, a cross-platform quota tracker, LLM-integrated bots
-- 🌐 &nbsp;**Website** &nbsp;&nbsp;&nbsp;&nbsp;— [minhspark.com](https://minhspark.com)
-- ⚡ &nbsp;**Principle** &nbsp;&nbsp;— automate the repeatable, ship the reliable
-- 🌱 &nbsp;**Exploring** &nbsp;&nbsp;— applied ML, agentic AI systems, developer tooling
-
-<br/>
-
-> *Root cause first · production-grade · reproducible · automated*
-
 <br clear="right"/>
 
 ---
