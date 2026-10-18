@@ -164,7 +164,7 @@ I design and ship production-grade software end to end — open-source tooling f
 
 <a href="mailto:buidangminh23@gmail.com"><img src="assets/contact/gmail.svg" width="340" alt="Gmail: buidangminh23@gmail.com" /></a> <a href="https://github.com/buidangminh23"><img src="assets/contact/github.svg" width="340" alt="GitHub: buidangminh23" /></a>
 
-<a href="https://minhspark.com"><img src="assets/contact/website.svg" width="340" alt="Website: minhspark.com" /></a> <a href="https://www.npmjs.com/~minhspark"><img src="assets/contact/npm.svg" width="340" alt="npm: minhspark" /></a>
+<a href="https://minhspark.com"><img src="assets/contact/website-avatar.svg" width="340" alt="Website: minhspark.com" /></a> <a href="https://www.npmjs.com/~minhspark"><img src="assets/contact/npm.svg" width="340" alt="npm: minhspark" /></a>
 
 <br/>
 
