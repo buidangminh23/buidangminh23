@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 380" width="1000" height="380" role="img" aria-labelledby="title desc">
+<title id="title">buidangminh23 contribution activity</title>
+<desc id="desc">1029 contributions between Oct 29 and Nov 28, peaking at 135 in one day.</desc>
+<style>
+.title{font:600 20px 'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif;fill:#ff4444}
+.meta{font:400 13px 'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif;fill:#b8b8b8}
+.axis{font:400 12px 'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif;fill:#9a9a9a}
+</style>
+<defs>
+<linearGradient id="fill" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#ff4444" stop-opacity="0.38"/>
+<stop offset="1" stop-color="#ff4444" stop-opacity="0.02"/>
+</linearGradient>
+</defs>
+<rect width="1000" height="380" rx="8" fill="#0d0d0d"/>
+<text x="64" y="42" class="title">Contribution activity</text>
+<text x="64" y="64" class="meta">Last 31 days · 1029 contributions · peak 135/day</text>
+<line x1="64" y1="316" x2="968" y2="316" stroke="#ffffff" stroke-opacity="0.28"/>
+<text x="52" y="320" text-anchor="end" class="axis">0</text>
+<line x1="64" y1="238.7" x2="968" y2="238.7" stroke="#ffffff" stroke-opacity="0.08"/>
+<text x="52" y="242.7" text-anchor="end" class="axis">50</text>
+<line x1="64" y1="161.3" x2="968" y2="161.3" stroke="#ffffff" stroke-opacity="0.08"/>
+<text x="52" y="165.3" text-anchor="end" class="axis">100</text>
+<line x1="64" y1="84" x2="968" y2="84" stroke="#ffffff" stroke-opacity="0.08"/>
+<text x="52" y="88" text-anchor="end" class="axis">150</text>
+<path d="M64,308.3 C74,309.8 84.1,312.9 94.1,312.9 C104.2,312.9 114.2,310.3 124.3,302.1 C134.3,293.8 144.4,263.4 154.4,263.4 C164.4,263.4 174.5,289.7 184.5,289.7 C194.6,289.7 204.6,227.8 214.7,227.8 C224.7,227.8 234.8,306.7 244.8,306.7 C254.8,306.7 264.9,274.2 274.9,274.2 C285,274.2 295,288.2 305.1,288.2 C315.1,288.2 325.2,178.3 335.2,178.3 C345.2,178.3 355.3,213.7 365.3,226.3 C375.4,238.9 385.4,254.1 395.5,254.1 C405.5,254.1 415.6,223.2 425.6,223.2 C435.6,223.2 445.7,274.2 455.7,274.2 C465.8,274.2 475.8,107.2 485.9,107.2 C495.9,107.2 506,179.1 516,209.3 C526,239.4 536.1,288.2 546.1,288.2 C556.2,288.2 566.2,265 576.3,265 C586.3,265 596.4,267.3 606.4,271.1 C616.4,275 626.5,288.2 636.5,288.2 C646.6,288.2 656.6,261.9 666.7,261.9 C676.7,261.9 686.8,261.9 696.8,265 C706.8,268.1 716.9,283.5 726.9,283.5 C737,283.5 747,247.9 757.1,247.9 C767.1,247.9 777.2,285.1 787.2,289.7 C797.2,294.3 807.3,294.3 817.3,294.3 C827.4,294.3 837.4,294.3 847.5,285.1 C857.5,275.8 867.6,210.8 877.6,210.8 C887.6,210.8 897.7,285.3 907.7,292.8 C917.8,300.3 927.8,298.7 937.9,300.5 C947.9,302.3 958,309.8 968,314.5 L968,316 L64,316 Z" fill="url(#fill)"/>
+<path d="M64,308.3 C74,309.8 84.1,312.9 94.1,312.9 C104.2,312.9 114.2,310.3 124.3,302.1 C134.3,293.8 144.4,263.4 154.4,263.4 C164.4,263.4 174.5,289.7 184.5,289.7 C194.6,289.7 204.6,227.8 214.7,227.8 C224.7,227.8 234.8,306.7 244.8,306.7 C254.8,306.7 264.9,274.2 274.9,274.2 C285,274.2 295,288.2 305.1,288.2 C315.1,288.2 325.2,178.3 335.2,178.3 C345.2,178.3 355.3,213.7 365.3,226.3 C375.4,238.9 385.4,254.1 395.5,254.1 C405.5,254.1 415.6,223.2 425.6,223.2 C435.6,223.2 445.7,274.2 455.7,274.2 C465.8,274.2 475.8,107.2 485.9,107.2 C495.9,107.2 506,179.1 516,209.3 C526,239.4 536.1,288.2 546.1,288.2 C556.2,288.2 566.2,265 576.3,265 C586.3,265 596.4,267.3 606.4,271.1 C616.4,275 626.5,288.2 636.5,288.2 C646.6,288.2 656.6,261.9 666.7,261.9 C676.7,261.9 686.8,261.9 696.8,265 C706.8,268.1 716.9,283.5 726.9,283.5 C737,283.5 747,247.9 757.1,247.9 C767.1,247.9 777.2,285.1 787.2,289.7 C797.2,294.3 807.3,294.3 817.3,294.3 C827.4,294.3 837.4,294.3 847.5,285.1 C857.5,275.8 867.6,210.8 877.6,210.8 C887.6,210.8 897.7,285.3 907.7,292.8 C917.8,300.3 927.8,298.7 937.9,300.5 C947.9,302.3 958,309.8 968,314.5" fill="none" stroke="#ff4444" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="64" cy="308.3" r="3.5" fill="#ffffff" stroke="#ff4444" stroke-width="1.5"><title>Oct 29: 5 contributions</title></circle>
+<circle cx="94.1" cy="312.9" r="3.5" fill="#ffffff" stroke="#ff4444" stroke-width="1.5"><title>Oct 30: 2 contributions</title></circle>
+<circle cx="124.3" cy="302.1" r="3.5" fill="#ffffff" stroke="#ff4444" stroke-width="1.5"><title>Oct 31: 9 contributions</title></circle>
+<circle cx="154.4" cy="263.4" r="3.5" fill="#ffffff" stroke="#ff4444" stroke-width="1.5"><title>Nov 1: 34 contributions</title></circle>
+<circle cx="184.5" cy="289.7" r="3.5" fill="#ffffff" stroke="#ff4444" stroke-width="1.5"><title>Nov 2: 17 contributions</title></circle>
+<circle cx="214.7" cy="227.8" r="3.5" fill="#ffffff" stroke="#ff4444" stroke-width="1.5"><title>Nov 3: 57 contributions</title></circle>
+<circle cx="244.8" cy="306.7" r="3.5" fill="#ffffff" stroke="#ff4444" stroke-width="1.5"><title>Nov 4: 6 contributions</title></circle>
+<circle cx="274.9" cy="274.2" r="3.5" fill="#ffffff" stroke="#ff4444" stroke-width="1.5"><title>Nov 5: 27 contributions</title></circle>
+<circle cx="305.1" cy="288.2" r="3.5" fill="#ffffff" stroke="#ff4444" stroke-width="1.5"><title>Nov 6: 18 contributions</title></circle>
+<circle cx="335.2" cy="178.3" r="3.5" fill="#ffffff" stroke="#ff4444" stroke-width="1.5"><title>Nov 7: 89 contributions</title></circle>
+<circle cx="365.3" cy="226.3" r="3.5" fill="#ffffff" stroke="#ff4444" stroke-width="1.5"><title>Nov 8: 58 contributions</title></circle>
+<circle cx="395.5" cy="254.1" r="3.5" fill="#ffffff" stroke="#ff4444" stroke-width="1.5"><title>Nov 9: 40 contributions</title></circle>
+<circle cx="425.6" cy="223.2" r="3.5" fill="#ffffff" stroke="#ff4444" stroke-width="1.5"><title>Nov 10: 60 contributions</title></circle>
+<circle cx="455.7" cy="274.2" r="3.5" fill="#ffffff" stroke="#ff4444" stroke-width="1.5"><title>Nov 11: 27 contributions</title></circle>
+<circle cx="485.9" cy="107.2" r="3.5" fill="#ffffff" stroke="#ff4444" stroke-width="1.5"><title>Nov 12: 135 contributions</title></circle>
+<circle cx="516" cy="209.3" r="3.5" fill="#ffffff" stroke="#ff4444" stroke-width="1.5"><title>Nov 13: 69 contributions</title></circle>
+<circle cx="546.1" cy="288.2" r="3.5" fill="#ffffff" stroke="#ff4444" stroke-width="1.5"><title>Nov 14: 18 contributions</title></circle>
+<circle cx="576.3" cy="265" r="3.5" fill="#ffffff" stroke="#ff4444" stroke-width="1.5"><title>Nov 15: 33 contributions</title></circle>
+<circle cx="606.4" cy="271.1" r="3.5" fill="#ffffff" stroke="#ff4444" stroke-width="1.5"><title>Nov 16: 29 contributions</title></circle>
+<circle cx="636.5" cy="288.2" r="3.5" fill="#ffffff" stroke="#ff4444" stroke-width="1.5"><title>Nov 17: 18 contributions</title></circle>
+<circle cx="666.7" cy="261.9" r="3.5" fill="#ffffff" stroke="#ff4444" stroke-width="1.5"><title>Nov 18: 35 contributions</title></circle>
+<circle cx="696.8" cy="265" r="3.5" fill="#ffffff" stroke="#ff4444" stroke-width="1.5"><title>Nov 19: 33 contributions</title></circle>
+<circle cx="726.9" cy="283.5" r="3.5" fill="#ffffff" stroke="#ff4444" stroke-width="1.5"><title>Nov 20: 21 contributions</title></circle>
+<circle cx="757.1" cy="247.9" r="3.5" fill="#ffffff" stroke="#ff4444" stroke-width="1.5"><title>Nov 21: 44 contributions</title></circle>
+<circle cx="787.2" cy="289.7" r="3.5" fill="#ffffff" stroke="#ff4444" stroke-width="1.5"><title>Nov 22: 17 contributions</title></circle>
+<circle cx="817.3" cy="294.3" r="3.5" fill="#ffffff" stroke="#ff4444" stroke-width="1.5"><title>Nov 23: 14 contributions</title></circle>
+<circle cx="847.5" cy="285.1" r="3.5" fill="#ffffff" stroke="#ff4444" stroke-width="1.5"><title>Nov 24: 20 contributions</title></circle>
+<circle cx="877.6" cy="210.8" r="3.5" fill="#ffffff" stroke="#ff4444" stroke-width="1.5"><title>Nov 25: 68 contributions</title></circle>
+<circle cx="907.7" cy="292.8" r="3.5" fill="#ffffff" stroke="#ff4444" stroke-width="1.5"><title>Nov 26: 15 contributions</title></circle>
+<circle cx="937.9" cy="300.5" r="3.5" fill="#ffffff" stroke="#ff4444" stroke-width="1.5"><title>Nov 27: 10 contributions</title></circle>
+<circle cx="968" cy="314.5" r="3.5" fill="#ffffff" stroke="#ff4444" stroke-width="1.5"><title>Nov 28: 1 contributions</title></circle>
+<text x="64" y="342" text-anchor="middle" class="axis">Oct 29</text>
+<text x="214.7" y="342" text-anchor="middle" class="axis">Nov 3</text>
+<text x="365.3" y="342" text-anchor="middle" class="axis">Nov 8</text>
+<text x="516" y="342" text-anchor="middle" class="axis">Nov 13</text>
+<text x="666.7" y="342" text-anchor="middle" class="axis">Nov 18</text>
+<text x="817.3" y="342" text-anchor="middle" class="axis">Nov 23</text>
+<text x="968" y="342" text-anchor="middle" class="axis">Nov 28</text>
+</svg>
